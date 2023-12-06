@@ -1,4 +1,4 @@
 # My-Projects
 this is my first repository
 <br>
-Author- Rahul Shivshetti
+Author- Rahul Shivshetti (Software developer)
